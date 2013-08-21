@@ -5,11 +5,35 @@
       "type": "Feature",
       "geometry": {
         "type": "Point", 
-        "coordinates": [35.8189, 78.6447]
+        "coordinates": [-78.6447, 35.8189]
       },
       "properties": {
         "Name": "Triangle API",
-        "Url": "http://www.meetup.com/triangleAPI/
+        "Url": "http://www.meetup.com/triangleAPI/",
+        "Twitter": "@TriangleAPI"
+      }
+    },
+    { 
+      "type": "Feature",
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [-77.0367, 38.8951]
+      },
+      "properties": {
+        "Name": "DC Web API User Group",
+        "Url": "http://www.meetup.com/DC-Web-API-User-Group/"
+      }
+    },
+    { 
+      "type": "Feature",
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [-97.7500, 30.2500]
+      },
+      "properties": {
+        "Name": "Austin Homegrown API",
+        "Url": "http://www.austinapi.com/",
+        "Twitter": "@Austin API"
       }
     }
   ]
