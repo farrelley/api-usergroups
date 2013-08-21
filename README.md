@@ -1,4 +1,6 @@
 api-usergroups
 ==============
 
-API User Groups
+Map view of all API User Groups
+
+Add your usergroup by editing the map.geojson file
