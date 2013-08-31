@@ -35,6 +35,17 @@
         "Url": "http://www.austinapi.com/",
         "Twitter": "@Austin API"
       }
+    },
+    { 
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.6167, 39.2833]
+      },
+      "properties": {
+        "Name": "Baltimore API",
+        "Url": "http://www.meetup.com/baltimoreapi/",
+      }
     }
   ]
 }
